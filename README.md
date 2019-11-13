@@ -1,1 +1,1 @@
-#My bashrc
+#My bashrc for Q
